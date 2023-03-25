@@ -1,3 +1,5 @@
+//file name: ChatInput.jsx
+//date: 3/25/2023
 import React, { Component } from 'react';
 import './ChatInput.scss';
 
